@@ -25,6 +25,8 @@ case $flag in
         ./gemm 1024
         # ./gemm 2048
 
-        echo -e "\e[32m> Job finished at: $(date '+%Y-%m-%d %H:%M:%S') <\e[0m"
         ;;
 esac
+
+
+echo -e "\e[32m> Job finished at: $(date '+%Y-%m-%d %H:%M:%S') <\e[0m"
