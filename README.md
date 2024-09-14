@@ -1,5 +1,5 @@
 ## 题目介绍
-该考核程序基础为一个矩阵乘的算子，其函数体在`src/solve.cpp`内，你仅可以在这个文件内进行优化修改。
+[特殊招新](https://github.com/YRemmmm/SRQ)源代码的基础为一个矩阵乘的算子，其函数体在`src/solve.cpp`内，你仅可以在这个文件内进行优化修改。
 
 + 你所要完成的就是做出超过 baseline 的优化，但是禁止使用 baseline 的优化方法。
 + 请参考[flame项目下的如何优化gemm](https://github.com/flame/how-to-optimize-gemm/wiki)进行程序的优化，对文档的实现、理解与阐述也是考核的一部分。
